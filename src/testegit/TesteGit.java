@@ -20,9 +20,6 @@ public class TesteGit {
         System.out.println("Teste Git");
         System.out.println("Teste Git");
         System.out.println("Teste Git");
-        System.out.println("Teste Git");
-        
-        
+        System.out.println("Teste Git"); 
     }
-    
 }
